@@ -5,3 +5,7 @@ TODO:
 - Radix no select
 - Validação (react-hook-form)
 - Autenticação com twitch/discord
+
+TODO MOBILE:
+
+- Notificações
